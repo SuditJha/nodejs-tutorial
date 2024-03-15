@@ -54,9 +54,10 @@ mein daal ke dega
 har naye app ka data store hoga storage mein, par usey directly rakne
 ki jagah ek container mein rakhege, us container mein sirf us app ka
 data aayega
-DB(setup) => Db formaition
-Model(code)=> Collections (DB)
-schema (code) => documents (db)
+
+- DB(setup) => Db formaition
+- Model(code)=> Collections (DB)
+- schema (code) => documents (db)
 
 - ek app ka poora data => db
 - ek app mein variety of data hota hai par poora data hota app ka hi
